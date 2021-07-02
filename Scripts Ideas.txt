@@ -1,0 +1,33 @@
+ ------------------------------------------------------
+|######Idea for Scripts Exploration in PowerShell######|
+ ------------------------------------------------------
+ ____________________________________________________________
+{		Fundamentals to keep for ALL Scripts:				 }
+{============================================================}
+{-Run on all windows 10 machines (maybe win 11 also in futur)}
+{-Do not need special autorisations to run properly`		 }
+{-As Much autonomus as possible								 }
+{-MUST BE DYNAMIC (as less hardcoding as possible)			 }
+ ============================================================
+
+Ideas List:
+
+=> Enumerate file/network system
+=> Create/Copy/Move/Deletion files/Directory from a place/disc to an other
+=> Keystroke Injection
+=> Autolauncher for script/program
+=> Autorisation/Security Bypasser
+=> Install small programs/trollware
+=> Keyboard lockdown
+=> TrollWare
+=> Credential Automation
+=> Payload Staging
+=> KeyLogger
+=> ASCII Art generation
+=> Basic Automation
+=> Hardware Emulation
+=> PowerShell-Python Hybrid programs
+=> Folder Encryption
+=> Folder Decryption
+=> Multi-purpous toolkit
+=> Hacking hardware emulator
